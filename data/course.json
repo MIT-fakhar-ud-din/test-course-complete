@@ -1,0 +1,33 @@
+{
+  "term": "Summer",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-course-complete"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course-complete"
+  },
+  "course_title": "Complete Test Suite",
+  "course_description": "Test Course",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1011",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-course-complete"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "9d2d502a-6eaa-4e58-b679-02594d02d3ce",
+  "site_short_id": "test-course-complete"
+}
