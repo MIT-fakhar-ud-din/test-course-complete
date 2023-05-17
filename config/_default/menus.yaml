@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 6dd68b66-1258-4750-970a-4fe19ca51a51
+  name: Homepage
+  url: /pages/homepage
+  weight: 10
